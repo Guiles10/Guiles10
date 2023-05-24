@@ -18,5 +18,5 @@
   
   <a href="https://www.linkedin.com/in/guileano-mello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-   <a href = "mailto:guiles.mello@gmail.com](https://personal-page-guileano.vercel.app/)"><img src="" target="_blank">Portifólio</a>
+   <a href = "mailto:guiles.mello@gmail.com](https://personal-page-guileano.vercel.app/)">Portifólio</a>
 </div>
