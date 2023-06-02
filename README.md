@@ -18,5 +18,5 @@
   
   <a href="https://www.linkedin.com/in/guileano-mello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-   <a href = "https://personal-page-guileano.vercel.app/" target="_blank"><img height="30" width="40" src="https://www.agorasite.com.br/envios/2016/11/Portfolio-image.png" target="_blank"></a>
+   <a href = "https://personal-page-guileano.vercel.app/" target="_blank"><img height="50" width="150" src="https://s3.amazonaws.com/ibc-portal/wp-content/uploads/2017/10/19140245/portfolio-como-fazer1.jpg" target="_blank"></a>
 </div>
